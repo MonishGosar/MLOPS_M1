@@ -1,2 +1,6 @@
 Interest rate: 5%
+<<<<<<< HEAD
 Main branch changes
+=======
+New feature in car loan
+>>>>>>> new-feature
